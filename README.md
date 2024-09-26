@@ -6,3 +6,4 @@ I used [Creately](https://app.creately.com/) to make some diagrams as I learned 
 
 I accessed the "Curso" workspace ![this way](images/course-workspace.png)
 
+I talk about Creately [in this video](https://youtu.be/F1A5UvZYZ_k).
