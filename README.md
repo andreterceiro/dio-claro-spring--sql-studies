@@ -37,3 +37,13 @@ Modifying a column:
 ![modifying a column](images/modifying-a-column.png)
 
 A important information to remember is that we can only have one `primary key`.
+
+![renaming a table](images/renaming-a-table.png)
+
+We can have null values in a `foreign key`:
+![null values in foreign keys](images/null-values-in-foreign-keys.png)
+
+Pay attention that the question of a `foreign key` receives a null value or no depends if that column received a `NULL` or `NOT NULL` constraint. Please see the insertion in `PHPMyAdmin`. There we have both:
+
+- a null checkbok. The meaning is that the column in the register will receive a `NULL` value;
+- the combobox (or select box) with specific values that are in the another table (where the reference points to). When you select a value the checkbox to select `null` as the value of the column is automatically selected.
