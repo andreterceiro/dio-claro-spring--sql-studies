@@ -67,3 +67,6 @@ Adding a `primary key` through `alter table`, one way:
 
 Adding a `foreign key` through `alter table`, one way:
 ![alter table add foreign key](images/alter-table-add-foreign-key.png)
+
+Adding an `on delete cascade` constraint on an `alter table` statement:
+![on delete cascade](images/on-delete-cascade.png)
