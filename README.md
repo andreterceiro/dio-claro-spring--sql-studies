@@ -18,3 +18,7 @@ after loggin in in the administration pannel;
 - password: if you access using the previous link, a password will be not necessary.
 
 **OBS:** you will need to click in the **'Entrar no phpMyAdmin'** of the specific database.
+
+This basically is what was teached about the creation of a table:
+
+![create table](images/create-table.png)
