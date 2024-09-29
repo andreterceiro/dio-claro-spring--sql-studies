@@ -58,3 +58,6 @@ Also you can saw in the image that we can have more than one `foreign key`. If y
 
 Adding a constraint:
 ![adding a constraint](images/adding-a-constraint.png)
+
+Restrictions on constraits. I never used **"SET DEFAULT"**, interesting:
+![restrictions on constraints](images/restrictions-on-constraints.png)
