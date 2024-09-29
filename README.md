@@ -74,7 +74,7 @@ Adding an `on delete cascade` constraint on an `alter table` statement:
 Manually deleting a constraint:
 ![manually deleting a constraint](images/manually-deleting-a-constraint.png)
 
-About `database mormalization`:
+About `database mormalization` (`first normal form`):
 
 ![first normal form](images/first-normal-form.png)
 
@@ -95,3 +95,6 @@ In the next clausule you can ommit the word `"column"`:
 ```
 alter table b drop column c;
 ```
+
+About the `second normal form`:
+![second normal form](images/second-normal-form.png)
