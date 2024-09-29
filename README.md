@@ -32,3 +32,6 @@ The teacher used an interesting `insert ... select` in the class as you can see 
 
 The teacher also renamed a table:
 ![renaming a table](images/renaming-a-table.png)
+
+Modifying a column:
+![modifying a column](images/modifying-a-column.png)
