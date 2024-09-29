@@ -61,3 +61,6 @@ Adding a constraint:
 
 Restrictions on constraits. I never used **"SET DEFAULT"**, interesting:
 ![restrictions on constraints](images/restrictions-on-constraints.png)
+
+Adding a `primary key` through `alter table`, one way:
+![alter table add primary key](images/alter-table-add-primary-key.png)
