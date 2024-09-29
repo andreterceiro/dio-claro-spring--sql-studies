@@ -147,3 +147,6 @@ First example of an `explain`:
 ![first example of an explain](images/example-1-explain.png)
 
 In this example we already have an `unique` index in the column "email". Please see in the image that key = email.
+
+Second example of an `explain`. Here we see a where using a column with no index. A full table scan was done and the SGDB needs to see all the 34 rows of the table.
+![second example of an explain](images/example-2-explain.png)
