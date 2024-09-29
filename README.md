@@ -163,3 +163,9 @@ Structure of a `create index` statement:
 ![structure of a create index statement](images/structure-of-a-create-index-statement.png)
 
 In the above image you can see that an `index` can involve more than one column.
+
+# Finishing
+
+[Repository](https://github.com/pamelaborges/dio-bd-relacional) related to the course.
+
+[Slides](slides.pdf) of the course
