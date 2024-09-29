@@ -153,3 +153,8 @@ Second example of an `explain`. Here we see a where using a column with no index
 
 Creating an `index` to make an `explain again`:
 ![creating an index](images/creating-an-index.png)
+
+Third example of an `explain`:
+![third example of an explain](images/example-3-explain.png)
+
+Why 2 rows? Because we have 2 "João Silva" in the table.
