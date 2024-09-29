@@ -158,3 +158,8 @@ Third example of an `explain`:
 ![third example of an explain](images/example-3-explain.png)
 
 Why 2 rows? Because we have 2 "João Silva" in the table.
+
+Structure of a `create index` statement:
+![structure of a create index statement](images/structure-of-a-create-index-statement.png)
+
+In the above image you can see that an `index` can involve more than one column.
