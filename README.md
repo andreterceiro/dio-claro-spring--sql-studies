@@ -143,3 +143,7 @@ Details of an `explain`:
 
 In the previous imagem you can see he word "`rows`". Seeing this output of an `explain` you can see if it was necessary a full table scan and if an index is necessary.
 
+First example of an `explain`:
+![first example of an explain](images/example-1-explain.png)
+
+In this example we already have an `unique` index in the column "email". Please see in the image that key = email.
