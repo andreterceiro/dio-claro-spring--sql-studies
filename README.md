@@ -118,7 +118,7 @@ More normal forms:
 About `full join`:
 ![full join](images/full-join.png)
 
-- Not all SGBB suports a `full join`;
+- Not all SGDB suports a `full join`;
 - Is like a `left join` plus a `right join`.
 
 A diagram representing a `full join`:
@@ -168,4 +168,4 @@ In the above image you can see that an `index` can involve more than one column.
 
 [Repository](https://github.com/pamelaborges/dio-bd-relacional) related to the course.
 
-[Slides](slides.pdf) of the course
+[Slides](slides.pdf) of the course.
