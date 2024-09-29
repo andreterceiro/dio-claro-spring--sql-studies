@@ -137,3 +137,9 @@ About `timestampdiff` function:
 
 About `explain`:
 ![explain](images/explain.png)
+
+Details of an `explain`:
+![details of as explain](images/details-explain.png)
+
+In the previous imagem you can see he word "`rows`". Seeing this output of an `explain` you can see if it was necessary a full table scan and if an index is necessary.
+
