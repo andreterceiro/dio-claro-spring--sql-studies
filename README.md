@@ -129,3 +129,6 @@ About `sub queries`:
 
 About aggregation functions:
 ![aggregation functions](images/aggregation-functions.png)
+
+About `timestampdiff` function:
+![timestampdiff function](images/timestampdiff-function.png)
