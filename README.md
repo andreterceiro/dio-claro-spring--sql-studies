@@ -112,3 +112,9 @@ Summary of normal forms:
 
 More normal forms:
 ![more normal forms](images/more-normal-forms.png)
+
+About `full join`:
+![full join](images/full-join.png)
+
+- Not all SGBB suports a `full join`;
+- Is like a `left join` plus a `right join`.
