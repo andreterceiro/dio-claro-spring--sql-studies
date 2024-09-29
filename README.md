@@ -96,6 +96,8 @@ In the next clausule you can ommit the word `"column"`:
 alter table b drop column c;
 ```
 
+![alter without the word 'column'](images/alter-without-colunm.png)
+
 About the `second normal form`:
 ![second normal form](images/second-normal-form.png)
 
@@ -121,3 +123,6 @@ About `full join`:
 
 A diagram representing a `full join`:
 ![diagram full join](images/full-join-diagram.png)
+
+About `sub queries`:
+![sub queries](images/sub-queries.png)
