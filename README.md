@@ -150,3 +150,6 @@ In this example we already have an `unique` index in the column "email". Please 
 
 Second example of an `explain`. Here we see a where using a column with no index. A full table scan was done and the SGDB needs to see all the 34 rows of the table.
 ![second example of an explain](images/example-2-explain.png)
+
+Creating an `index` to make an `explain again`:
+![creating an index](images/creating-an-index.png)
