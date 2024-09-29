@@ -70,3 +70,6 @@ Adding a `foreign key` through `alter table`, one way:
 
 Adding an `on delete cascade` constraint on an `alter table` statement:
 ![on delete cascade](images/on-delete-cascade.png)
+
+Manually deleting a constraint:
+![manually deleting a constraint](images/manually-deleting-a-constraint.png)
