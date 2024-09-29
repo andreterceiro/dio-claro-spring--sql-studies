@@ -134,3 +134,6 @@ About `timestampdiff` function:
 ![timestampdiff function](images/timestampdiff-function.png)
 
 `GROUP BY` is not an aggregation function. Is about grouping results.
+
+About `explain`:
+![explain](images/explain.png)
