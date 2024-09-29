@@ -89,3 +89,9 @@ alter table b modify column c tinyint;
 ```
 alter table b modify c tinyint;
 ```
+
+In the next clausule you can ommit the word `"column"`:
+
+```
+alter table b drop column c;
+```
