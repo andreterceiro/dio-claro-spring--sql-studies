@@ -118,3 +118,6 @@ About `full join`:
 
 - Not all SGBB suports a `full join`;
 - Is like a `left join` plus a `right join`.
+
+A diagram representing a `full join`:
+![diagram full join](images/full-join-diagram.png)
