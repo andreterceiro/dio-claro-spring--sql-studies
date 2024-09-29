@@ -47,3 +47,9 @@ Pay attention that the question of a `foreign key` receives a null value or no d
 
 - a null checkbok. The meaning is that the column in the register will receive a `NULL` value;
 - the combobox (or select box) with specific values that are in the another table (where the reference points to). When you select a value the checkbox to select `null` as the value of the column is automatically selected.
+
+The `SQL` clausule to create a foreign key in different SGDBs is showed [here](https://www.w3schools.com/sql/sql_foreignkey.asp).
+
+![sql creation foreign key](images/sql-creation-foreign-key.png)
+
+In the previous image I was talking about `foreign keys`. The command showed a way of creation `primary keys` that works also in MySQL.
