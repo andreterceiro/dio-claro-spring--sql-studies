@@ -73,3 +73,19 @@ Adding an `on delete cascade` constraint on an `alter table` statement:
 
 Manually deleting a constraint:
 ![manually deleting a constraint](images/manually-deleting-a-constraint.png)
+
+About `database mormalization`:
+
+![first normal form](images/first-normal-form.png)
+
+About the word `"column"`, you can ommit this word in 
+
+```
+alter table b modify column c tinyint;
+```
+
+ In other words, the next clausule have the same effect:
+
+```
+alter table b modify c tinyint;
+```
