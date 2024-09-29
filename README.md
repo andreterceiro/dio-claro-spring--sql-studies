@@ -126,3 +126,6 @@ A diagram representing a `full join`:
 
 About `sub queries`:
 ![sub queries](images/sub-queries.png)
+
+About aggregation functions:
+![aggregation functions](images/aggregation-functions.png)
