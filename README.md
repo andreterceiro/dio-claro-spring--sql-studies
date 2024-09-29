@@ -53,3 +53,5 @@ The `SQL` clausule to create a foreign key in different SGDBs is showed [here](h
 ![sql creation foreign key](images/sql-creation-foreign-key.png)
 
 In the previous image I was talking about `foreign keys`. The command showed a way of creation `primary keys` that works also in MySQL.
+
+Also you can saw in the image that we can have ore than one `foreign key`. If you think with calm is obvious, is necessary only point to different tables, like tables to track order items (on column point to a order and another column point to a item).
