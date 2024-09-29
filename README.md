@@ -29,3 +29,6 @@ In the class about `update`and `delete` clausules I didn't noted any new informa
 
 The teacher used an interesting `insert ... select` in the class as you can see in the next image:
 ![insert select](images/insert-select.png)
+
+The teacher also renamed a table:
+![renaming a table](images/renaming-a-table.png)
