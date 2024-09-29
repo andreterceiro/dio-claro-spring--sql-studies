@@ -35,3 +35,5 @@ The teacher also renamed a table:
 
 Modifying a column:
 ![modifying a column](images/modifying-a-column.png)
+
+A important information to remember is that we can only have one `primary key`.
