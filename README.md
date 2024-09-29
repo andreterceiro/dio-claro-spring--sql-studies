@@ -98,3 +98,5 @@ alter table b drop column c;
 
 About the `second normal form`:
 ![second normal form](images/second-normal-form.png)
+
+In other words, all the fields must depends (can be located by) on the primary key. The primake key can be a simple primary key or a compound primary key. 
