@@ -109,3 +109,6 @@ One column must depend only of the key and do not depends on the other columns.
 Summary of normal forms:
 
 ![summary-of-normal-forms.png](images/summary-of-normal-forms.png)
+
+More normal forms:
+![more normal forms](images/more-normal-forms.png)
