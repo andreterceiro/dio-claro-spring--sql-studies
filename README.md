@@ -24,3 +24,5 @@ This basically is what was teached about the creation of a table:
 ![create table](images/create-table.png)
 
 About the `select`or `insert` clausule I didn't learn any news except that I can use `<>` or `!=` in comparision with the meaning of "different" (I always used only "!=").
+
+In the class about `update`and `delete` clausules I didn't noted any new information based in my current knowloegde.
