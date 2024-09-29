@@ -64,3 +64,6 @@ Restrictions on constraits. I never used **"SET DEFAULT"**, interesting:
 
 Adding a `primary key` through `alter table`, one way:
 ![alter table add primary key](images/alter-table-add-primary-key.png)
+
+Adding a `foreign key` through `alter table`, one way:
+![alter table add foreign key](images/alter-table-add-foreign-key.png)
