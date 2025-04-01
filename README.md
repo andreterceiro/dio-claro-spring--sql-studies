@@ -17,7 +17,7 @@ In [this class](https://web.dio.me/course/introducao-a-banco-de-dados-relacionai
 
 Access data:
 - hostname: please access [this link](https://hpanel.hostinger.com/websites/terceiro.com.br/databases/php-my-admin?redirectLocation=side_menu)
-after loggin in in the administration pannel;
+after loggin in in the administration panel;
 - database: u257595541_viagens
 - username: u257595541_viagens
 - password: if you access using the previous link, a password will be not necessary.
